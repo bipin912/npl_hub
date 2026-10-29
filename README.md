@@ -1,6 +1,6 @@
 # npl_community
 
-A new Flutter project.
+Used Flutter and firebase for simple live chat and prediction(no cloud function) for cricket matches.
 
 ## Getting Started
 here is the apk and video(https://drive.google.com/drive/u/0/folders/1oZEFgNOcs2gXblRauguytdkgwXrPLBbq)
